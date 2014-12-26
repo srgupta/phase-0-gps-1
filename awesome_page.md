@@ -1,4 +1,4 @@
-**Steph** knows how to use *Markdown*.
+**Steph** knows how to use *Markdown* and she sometimes creates merge conflicts.
 ```
 4i=0 print hello
 ```
